@@ -3,8 +3,9 @@
 
 <div align="center">
 <h1>cf-proxy-Snippets</h1>
-</div>
+
 基于[cf-proxy-ex](https://github.com/1234567Yang/cf-proxy-ex)
+</div>
 # 原理
 可以部署在Snippets上，只需要压缩到32kb即可  
 首先就是把js文件通过静态文件的方式进行上传  
