@@ -17,4 +17,4 @@
 -  一个js文件yproxy-client.js，用于被snippets引入
 
 snippets.js用于填写到Cloudfare的snippets上。  
-然后yproxy-client.js用于部署在静态网站上托管。(注意，要记得链接，然后修改snippets.js内容进行引入）
+然后yproxy-client.js用于部署在静态网站上托管。(注意，要记得链接，然后修改snippets.js内容进行引入,ctrl+f搜索`https://youexample.com/yproxy-client.js`把他改为你的链接即可）
